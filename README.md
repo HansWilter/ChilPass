@@ -5,8 +5,8 @@ Developed by: Jonathan Cho and Hans Wilter
 
 [Download] (https://github.com/HansWilter/ChilPass/releases/latest)
 
-- [Features] (#Features)
-- [Contact Us] (#Contact Us)
+- [Key Features] (#features)
+- [Contact Us] (#contact-us)
 
 
 ## Key Features

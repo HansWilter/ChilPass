@@ -1,13 +1,15 @@
-# ChilPass
-ChilPass is a password management application that utilizes serverless database systems, PBKDF2 key derivation, SHA-256 hashing, and AES for encryption. 
+[![ChilPass](https://drive.google.com/uc?export=view&id=10R4nb1ZLLNRXWLcEufRF-FLm8Tk6KLS7)](https://github.com/HansWilter/ChilPass/releases/latest)
+
+
+[Download Windows Application](https://github.com/HansWilter/ChilPass/releases/latest)
+
+ChilPass is a password management application that utilizes offline database systems, PBKDF2 key derivation, SHA-256 hashing, and AES encryption. 
 
 Developed by: Jonathan Cho and Hans Wilter
 
-[Download] (https://github.com/HansWilter/ChilPass/releases/latest)
-
-- [Key Features] (#features)
-- [Contact Us] (#contact-us)
-
+- [Key Features](#key-features)
+- [Contact Us](#contact-us)
+- [Disclaimer](#disclaimer)
 
 ## Key Features
 - SQLite offline Server-less Database Files for password storage
@@ -23,5 +25,5 @@ Jonathan Cho
 Hans Wilter
 <hanswilter@gmail.com>
 
-### Disclaimer
+## Disclaimer
 The ChilPass application was made for educational purposes and has not gone through the extensive testing of industry password managers.

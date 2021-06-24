@@ -22,4 +22,4 @@ Hans Wilter
 <hanswilter@gmail.com>
 
 ## Disclaimer
-The ChilPass application is only to be used for educational purposes, do not use ChilPass to store private or sensitive information. ChilPass has not gone through the extensive testing of industry security applications, therefore, do not use the ChilPass application in place of a recognized password management application. 
+The ChilPass application is only intended to be used for educational purposes, do not use ChilPass to store private or sensitive information. ChilPass has not gone through the extensive testing of industry security applications, therefore, do not use the ChilPass application in place of an established password management application. 

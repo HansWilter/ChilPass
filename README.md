@@ -7,10 +7,6 @@ ChilPass is a password management application that utilizes offline database sys
 
 Developed by: Jonathan Cho and Hans Wilter
 
-- [Key Features](#key-features)
-- [Contact Us](#contact-us)
-- [Disclaimer](#disclaimer)
-
 ## Key Features
 - SQLite offline Server-less Database Files for password storage
 - Utilizes PBKDF2 for encryption key derivation 
@@ -26,4 +22,4 @@ Hans Wilter
 <hanswilter@gmail.com>
 
 ## Disclaimer
-The ChilPass application was made for educational purposes and has not gone through the extensive testing of industry password managers.
+The ChilPass application is only to be used for educational purposes, do not use ChilPass to store private or sensitive information. ChilPass has not gone through the extensive testing of industry security applications, therefore, do not use the ChilPass application in place of a recognized password management application. 
